@@ -1,0 +1,15 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-classic
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+pydantic
+typing
